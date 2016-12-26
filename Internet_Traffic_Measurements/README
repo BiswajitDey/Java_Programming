@@ -1,0 +1,8 @@
+This project includes the implementation of different flow cardinality alogirthms for internet traffic measurements :-
+The algorithms included are :-
+1. Probabilistic Counting Algorithm.
+2. Virtual Bitmap Algorithm.
+3. FM Sketch Algorithm.
+4. Hyperloglog Algorithm.
+5. Virtual Hyperloglog Algorithm.
+The output for these algorithms have also been uploaded. JFreeChart has been used to generate the graphs.
