@@ -3,7 +3,7 @@ This project includes the implementation of different flow cardinality alogirthm
 The algorithms included are :-
 1. Probabilistic Counting Algorithm.
 2. Virtual Bitmap Algorithm.
-3. FM Sketch Algorithm.
+3. FM Sketch Algorithm(PCSA).
 4. Hyperloglog Algorithm.
 5. Virtual Hyperloglog Algorithm.
 
