@@ -1,0 +1,2 @@
+A comparative analysis of serial vs parallel processing in Java using several concepts such as Fork Join, Java Streams etc.
+This assignment tries to analyse the various optimisation bottlenecks faced while parallelising in Java. 
