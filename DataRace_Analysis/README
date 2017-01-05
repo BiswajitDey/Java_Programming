@@ -1,0 +1,4 @@
+An example in Java to determine the invariant of a system and avoid data races.
+The example includes simulataneous insert/search/remove opearations on a linked list(test cases are limited and can be extended).
+The data races in the code has been already addressed.
+An interesting exercise for the viewer could be to identify where the data races could have occurred.
